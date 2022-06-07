@@ -5,6 +5,14 @@
 Приведите поэтапное описание того, как сейчас на рынке программного обеспечения
 решаются сходные задачи (описание бизнес-процесса AS IS). С целью представления
 бизнес-процесса можно использовать нотацию IDEF0, BPMN или блок-схему.]
+![](https://sun1-84.userapi.com/s/v1/ig2/TOovmFPqdCAn2HLxL-e9HWNqw2hwR3Np-j5JfKj9N0u8BDnUaB5iYbWuVctJ_j7U8bBZM37g9Lbl8Gefa6sG31PR.jpg?size=1257x876&quality=96&type=album)
+  <h3 align="center">Декомпозиция контекстной диаграммы IDEF0</h3>
+
+  ![https://sun1-84.userapi.com/s/v1/ig2/IHCuJj0NKTzgeVQMnQyNVHXCUTvC2OorABqxiEst4Pb-99HiMuLLoliE1u-CYhUlPhGXnnSiAUCcelDfZ4A64_V2.jpg?size=807x562&quality=96&type=album](https://sun1-84.userapi.com/s/v1/ig2/TOovmFPqdCAn2HLxL-e9HWNqw2hwR3Np-j5JfKj9N0u8BDnUaB5iYbWuVctJ_j7U8bBZM37g9Lbl8Gefa6sG31PR.jpg?size=1257x876&quality=96&type=album)
+  <h3 align="center">Декомпозиция контекстной диаграммы IDEF0</h3>
+
+
+
 
 ## 2.2. Определение проблем
 [Сформулируйте проблемы, которые на данный момент присутствуют на том или ином
