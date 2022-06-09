@@ -32,7 +32,7 @@
 * Оплата налога
 
 
-
+   Проект, созданный специально, чтобы опекуны и попечители не собирали все платежные документы в бумажном виде, не писали отчёт о потраченных средствах вручную и не стояли в очереди в органах опеки.
 
 
 ![](https://sun1-84.userapi.com/s/v1/ig2/TOovmFPqdCAn2HLxL-e9HWNqw2hwR3Np-j5JfKj9N0u8BDnUaB5iYbWuVctJ_j7U8bBZM37g9Lbl8Gefa6sG31PR.jpg?size=1257x876&quality=96&type=album)
