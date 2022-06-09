@@ -25,16 +25,16 @@
 
 
 ![](https://sun1-84.userapi.com/s/v1/ig2/TOovmFPqdCAn2HLxL-e9HWNqw2hwR3Np-j5JfKj9N0u8BDnUaB5iYbWuVctJ_j7U8bBZM37g9Lbl8Gefa6sG31PR.jpg?size=1257x876&quality=96&type=album)
-  <h3 align="center">Контекстная диаграмма IDEF0</h3>
+  <h3 align="center">рисунок 1. Контекстная диаграмма IDEF0</h3>
 
   ![](https://sun1-96.userapi.com/s/v1/ig2/M2k2SDJVVV8xLtVAsxTPBuWP6t4QDgjTlfsbkMu2eJmLyc9jUW5W6ZbuhlFvGh5rCbbwusGBH4-JDrXNKk-5QD07.jpg?size=1250x867&quality=96&type=album)
-  <h3 align="center">Декомпозиция контекстной диаграммы IDEF0</h3>
+  <h3 align="center">Рисунок 2. Декомпозиция контекстной диаграммы IDEF0</h3>
 
   ![](https://sun1-22.userapi.com/s/v1/ig2/s0UI7BSxSM0IK3nSi8kba96DBOEsuxtJbkn1K_RF-Q2LbpDsrIJ90Y97NVWTo9w2-2jMcqGClmlcfmYVE9UxV23k.jpg?size=1248x873&quality=96&type=album)
-  <h3 align="center">Декомпозиция процесса "Запрос создания отчета"</h3>
+  <h3 align="center">Рисунок 3. Декомпозиция процесса "Запрос создания отчета"</h3>
 
   ![](https://sun1-30.userapi.com/s/v1/ig2/2iKI6-A142QNJ8tXGS_D5j2wjc75E06OP1We1myrLuF9WGn1p7UZiGSi8iqtnelrLHTorkUUvPbTvoPnoVIp_aoq.jpg?size=1248x869&quality=96&type=album)
-  <h3 align="center">Декомпозиция процесса "Анализ полученных данных"</h3>
+  <h3 align="center">Рисунок 4. Декомпозиция процесса "Анализ полученных данных"</h3>
 
 ## 2.2. Определение проблем
 
@@ -46,7 +46,9 @@
 
 ## 2.3. Альтернативы (аналоги)
 
-###### Таблица 2 – Сравнительная таблица аналогов
+
+<p align="right"><font  color="blue">Таблица 2 – Сравнительная таблица аналогов </font> </color blue></p>
+
 |***Название продукта/Критерии для сравнения*** | *Мобильное приложение "Проверка чеков ФНС России* | *Мобильное приложение "Личный кабинет налогоплатильщика для физических лиц"* | *Мобильное приложение "1С:БизнесСтарт. Сканер чеков"* |
 |:------: | :-----: | :-----: | :----: |
 |Распознавание QR-кодов| Да| Да | Да |
